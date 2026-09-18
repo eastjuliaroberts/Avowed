@@ -242,4 +242,4 @@ Avowed is available as a complete free version with all features and updates inc
 Don't miss out on your chance to explore the world of Eora. Download Avowed free today and embark on your epic adventure!
 
 ---
-**Last updated:** 2026-09-18 07:52:57 UTC
+**Last updated:** 2026-09-18 12:36:47 UTC
